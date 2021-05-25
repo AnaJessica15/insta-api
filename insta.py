@@ -1,10 +1,16 @@
-# import instaloader
+'''
+Created on 
+    
 
-# test = instaloader.Instaloader()
+Course work: 23-05-2020
+    
 
-# acc = input('Enter the Account Username: ')
+@author: 
+    Ana Jessica
 
-# test.download_profile (acc, profile_pic_only = True)
+Source:
+    
+'''
 
 from flask import Flask, request, render_template
 import instaloader
